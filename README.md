@@ -8,6 +8,8 @@ A runnable Laravel application that demonstrates
 declare filters **once** on an Eloquent model, then render them with **Blade + Alpine**,
 **Livewire**, or no UI at all as a **JSON API**.
 
+🚀 **[This app, running live →](https://advanced-filters.laratribe.com)** — no install needed.
+
 📖 **[Package documentation](https://laratribe.github.io/laravel-advanced-filters)** ·
 📦 **[Packagist](https://packagist.org/packages/laratribe/laravel-advanced-filters)** ·
 ⌨ **[Package source](https://github.com/laratribe/laravel-advanced-filters)**
